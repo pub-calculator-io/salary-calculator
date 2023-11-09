@@ -13,6 +13,8 @@ This free salary calculator easily switches between hourly, bi-weekly, monthly, 
 
 This free salary calculator easily switches between hourly, bi-weekly, monthly, and yearly pay. Holidays and vacation days need special consideration and adjustments.
 
+[Salary Calculator Homepage](https://www.calculator.io/salary-calculator/ "Salary Calculator Homepage")
+
 __Shortcode__
 
 Use the Salary Calculator shortcode:
