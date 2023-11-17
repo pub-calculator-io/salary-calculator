@@ -1,6 +1,6 @@
 === Salary Calculator by Calculator.iO ===
 Contributors: calculatorio
-Tags: 
+Tags: salary calculator, hourly to yearly conversion, payroll calculation, wage vs. salary distinction, adjusting for holidays and vacation days, annual salary estimation, bi-weekly and monthly pay conversion, salary and wage remuneration, payroll period adjustments, fixed sum salary calculations
 Requires at least: 5.0
 Tested up to: 6.4.0
 Stable tag: 1.0.0
