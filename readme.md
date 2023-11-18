@@ -1,4 +1,4 @@
-# Salary Calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Salary Calculator Widget for WordPress
 
 This free salary calculator easily switches between hourly, bi-weekly, monthly, and yearly pay. Holidays and vacation days need special consideration and adjustments.
 
