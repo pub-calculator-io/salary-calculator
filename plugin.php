@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Salary Calculator by www.calculator.io
+Plugin Name: CI Salary calculator
 Plugin URI: https://www.calculator.io/salary-calculator/
 Description: This free salary calculator easily switches between hourly, bi-weekly, monthly, and yearly pay. Holidays and vacation days need special consideration and adjustments.
 Version: 1.0.0
