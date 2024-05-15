@@ -3,7 +3,6 @@
 This free salary calculator easily switches between hourly, bi-weekly, monthly, and yearly pay. Holidays and vacation days need special consideration and adjustments.
 
 ![Salary Calculator Input Form](/assets/images/screenshot-1.png "Salary Calculator Input Form")
-![Salary Calculator Calculation Results](/assets/images/screenshot-2.png "Salary Calculator Calculation Results")
 
 ## Installation
 

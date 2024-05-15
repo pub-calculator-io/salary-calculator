@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Salary Calculat
 == Screenshots ==
 
 1. The Salary Calculator Input Form.
-2. The Salary Calculator Calculation Results.
 
 == Installation ==
 
